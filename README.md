@@ -1,3 +1,7 @@
+
+## POSTMAN LINK https://gold-crater-741019.postman.co/workspace/My-Workspace~0564459d-f292-4d70-8a6b-af655e4bb91b/collection/29135175-283171ec-0abe-441c-81b2-5f6e9d79ed8a?action=share&creator=29135175
+
+
 ## Steps to run the project
 
 ### 1 Clone the repository: git clone https://github.com/Akash-Rajmane/Abhiman-Chat-App.git
@@ -17,6 +21,7 @@ CLIENT_ENDPOINT=http://localhost:3000
 `
 
 ### 4 Run the application: npm start
+
 
 
 ## API ENDPOINTS
